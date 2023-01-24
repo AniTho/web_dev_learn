@@ -13,3 +13,5 @@ __A log of my progress while learning web development in 2023.__
 - __DAY 03:__ Completed Introduction to html from (https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) which involves learning some semantic tags, how to structure the webpage and how to use appropriate tags for better accessibility to all user. Also structured a cover letter as part of an assignment.
 
 ![Day 3 final result](./data/Day_003_result.png)
+
+- __DAY 04:__ Studied about adding multimedia in the html and improve the user accessibility using figure tag. Also learnt to embed the content. Started learning about tables. 
