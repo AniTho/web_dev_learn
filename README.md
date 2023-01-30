@@ -17,3 +17,7 @@ __A log of my progress while learning web development in 2023.__
 - __DAY 04:__ Studied about adding multimedia in the html and improve the user accessibility using figure tag. Also learnt to embed the content. Started learning about tables. 
 
 - __Day 05:__ Studied about responsive image design using html, the usage of srcset and sizes attribute in img tag. Also picture tag to include multiple images and choose according to the width of the device. Learnt a bit about security issues with using iframe and importance of sandbox attribute in iframe from (https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies / https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+- __Day 06:__ Finished with all important tags of html, learned some accessibility tags for the table. Did the assignment of building a table and used the stylesheet, provided by mdn (https://github.com/mdn/learning-area/blob/main/html/tables/basic/minimal-table.css), for styling it (Studied from: https://developer.mozilla.org/en-US/docs/Learn/HTML). Also Started basic CSS.
+
+![Day 6 final result](./data/Day_006_result.png)
