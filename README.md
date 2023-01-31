@@ -21,3 +21,7 @@ __A log of my progress while learning web development in 2023.__
 - __Day 06:__ Finished with all important tags of html, learned some accessibility tags for the table. Did the assignment of building a table and used the stylesheet, provided by mdn (https://github.com/mdn/learning-area/blob/main/html/tables/basic/minimal-table.css), for styling it (Studied from: https://developer.mozilla.org/en-US/docs/Learn/HTML). Also Started basic CSS.
 
 ![Day 6 final result](./data/Day_006_result.png)
+
+- __Day 07:__ Started diving deep into CSS. Watched the video why CSS is weird (Link: https://youtu.be/aHUtMbJw8iA). Learnt about color representation in rgb, hex code for text color and background color. Also studied about text formatting.
+
+![Day 7 final result](./data/Day_007_result.gif)
