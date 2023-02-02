@@ -25,3 +25,7 @@ __A log of my progress while learning web development in 2023.__
 - __Day 07:__ Started diving deep into CSS. Watched the video why CSS is weird (Link: https://youtu.be/aHUtMbJw8iA). Learnt about color representation in rgb, hex code for text color and background color. Also studied about text formatting.
 
 ![Day 7 final result](./data/Day_007_result.gif)
+
+- __Day 08:__ Studied about different css selectors.
+
+![Day 8 final result](./data/Day_008_result.gif)
