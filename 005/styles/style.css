@@ -3,21 +3,26 @@ body{
 }
 h1{
     color: rgb(192, 86, 47);
-    background-color: #9e9e9e;
+    background-color: #d8d4d4;
     text-align: center;
-}
+    letter-spacing: 2.5px;
+    text-decoration: underline wavy 3px;
+    font-size: 45px;
+    font-family: 'Courier New';
+}   
 
 h2{
     color: darkolivegreen;
-    background-color: rgb(199, 199, 122);
 }
 
 p{
     color: blueviolet;
     background-color: #fff;
     text-align: right;
-    font-weight: 800;
+    line-height: 1.5;
 }
 button{
     color: blueviolet;
+    font-weight: bold;
+    font-size: 24px;
 }
