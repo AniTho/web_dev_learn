@@ -1,6 +1,12 @@
+/* Global Selector */
+*{
+    font-family: sans-serif;
+}
+
 body{
     background-color: #e9e9a5;
 }
+
 h1{
     color: rgb(192, 86, 47);
     background-color: #d8d4d4;
@@ -8,11 +14,14 @@ h1{
     letter-spacing: 2.5px;
     text-decoration: underline wavy 3px;
     font-size: 45px;
-    font-family: 'Courier New';
 }   
 
 h2{
     color: darkolivegreen;
+}
+
+h1,h2{
+    font-family: Courier New;
 }
 
 p{
@@ -21,8 +30,38 @@ p{
     text-align: right;
     line-height: 1.5;
 }
+
 button{
     color: blueviolet;
     font-weight: bold;
     font-size: 24px;
+}
+
+/* Class Selector */
+.no-link-underline{
+    text-decoration: None;
+    color:#fff;
+    background-color: #000;
+}
+
+/* ID selector */
+#button-1{
+    background-color: rgb(95, 204, 95);
+}
+
+#button-2{
+    background-color: rgb(255, 75, 75);
+}
+
+#diff-headline{
+    text-align: center;
+}
+
+/* Attribute Selector */
+input[type="password"]{
+    color: darkgreen;
+}
+
+#random li{
+    color: darkblue;
 }
