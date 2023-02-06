@@ -29,3 +29,5 @@ __A log of my progress while learning web development in 2023.__
 - __Day 08:__ Studied about different css selectors.
 
 ![Day 8 final result](./data/Day_008_result.gif)
+
+- __Day 09:__ Studied about pseudo class and pseudo elements. Also studied about css specificity and inheritance.
