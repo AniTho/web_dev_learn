@@ -31,3 +31,9 @@ __A log of my progress while learning web development in 2023.__
 ![Day 8 final result](./data/Day_008_result.gif)
 
 - __Day 09:__ Studied about pseudo class and pseudo elements. Also studied about css specificity and inheritance.
+
+- __Day 10:__ Completed a basic article webpage. Studied more about padding and margin. Also about display property and how css box model works.(Color Palette Ref: 
+    1. https://colorhunt.co/palette/b9f3fcaee2ff93c6e7fedeff
+    2. https://colorhunt.co/palette/c780fae3acf9fada9dfbf1d3)
+
+![Day 10 final result](./data/Day_010_result.gif)
