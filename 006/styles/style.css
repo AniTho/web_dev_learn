@@ -51,7 +51,7 @@ header a{
     margin: 16px 0;
     padding: 4px;
     border: none;
-    background-color: rgb(56, 160, 56);
+    background-color: #93C6E7;
 }
 
 .down{
@@ -61,5 +61,21 @@ header a{
     margin: 16px 0;
     padding: 4px;
     border: none;
+    background-color: #93C6E7;
+}
+
+article:nth-of-type(2n+1){
+    background-color: #FADA9D;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.down:hover{
     background-color: rgb(211, 60, 60);
+}
+
+.up:hover{
+    background-color: rgb(56, 160, 56);
 }
